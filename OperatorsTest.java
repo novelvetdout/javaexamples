@@ -2,7 +2,7 @@ package py.com.uaa.pooj.util;
 
 
 public class TestOperadoresIteradores {
-//Método que cuenta como parámetro un vector con números enteros
+//Método que cuenta como parámetro un vector con números enteros.
 	public int sumar(int[] numeros) {
 		int resultado = 0;
 		for (int i = 0; i < numeros.length; i++) {
