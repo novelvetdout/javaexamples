@@ -1,5 +1,5 @@
 package py.com.uaa.edu.pooj.practicaJ;
-//Ésta Línea De Código importa parte de la libería .util: Scanner
+//Ésta Línea De Código importa parte de la libería .util: Scanner..
 import java.util.Scanner;
 
 public class altaPersona {
