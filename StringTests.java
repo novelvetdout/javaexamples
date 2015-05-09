@@ -18,7 +18,7 @@ public class TestCadenas {
 	public int obtenerLongitudCadena(String cadena) {
 		return cadena.length();
 	}
-//Comparar Cadena diferenciando Mayúsculas	
+//Comparar Cadena diferenciando Mayúsculas.	
 	public boolean compararCadenaDiferenciandoMayusculas(String cadena1,
 			String cadena2) {
 		return cadena1.equals(cadena2);
