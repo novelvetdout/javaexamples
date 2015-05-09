@@ -1,2 +1,3 @@
 # javaexamples
-Examples of basic Java programas
+Examples of basic Java programs!
+
